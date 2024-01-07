@@ -55,7 +55,7 @@ $(document).ready(function(){
         $('.scroller').click(function () {
             $('html, body').animate({
               scrollTop: 0
-            }, 1500);
+            }, 1000);
           });
 
 
